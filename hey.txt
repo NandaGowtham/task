@@ -1,13 +1,4 @@
 Hii hello Namastha
 
 Steps to be done on jenkins GUI:
-========================
-Go to manage jenkins
-open manage node
-under launch method select "Launch via SSh"
-Host "public ip of slave"
-creditals: select user with private key
-enter ec2-user as name and paste the pem key.
-host key verification startegy to be selected
-save..
-we are good with the master and slave configuration
+
